@@ -7,7 +7,6 @@
 - 🌱 Curso Análise e Desenvolvimento de Sistemas.
 - ❤ Sou fanático em aprender.
 - 🕘 No tempo livre eu estudo, assisto futebol ou corrida e jogo. 📚⚽🏎🎮
-- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/GuilhermeGardesh">
