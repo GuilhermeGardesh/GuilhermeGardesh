@@ -3,10 +3,10 @@
 ##
 
 
-- 🔭 Atualmente estou em busca de estágio de desenvolvimento de sistemas.
+- 🔭 Atualmente estagiário de desenvolvimento Web na GSO - Medicina Ocupacional.
 - 🌱 Curso Análise e Desenvolvimento de Sistemas.
 - ❤ Sou fanático em aprender.
-- 🕘 No tempo livre eu estudo, assisto futebol ou corrida e jogo. 📚⚽🏎🎮
+- 🕘 No tempo livre eu estudo mais, assisto futebol ou corrida e jogo. 📚⚽🏎🎮
 
 <div align="center">
   <a href="https://github.com/GuilhermeGardesh">
