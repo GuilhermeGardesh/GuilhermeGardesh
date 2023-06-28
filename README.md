@@ -3,7 +3,7 @@
 ##
 
 
-- 🔭 Atualmente estagiário de desenvolvimento Web na GSO - Medicina Ocupacional.
+- 🔭 Atualmente Desenvolvedor Jr na GSO - Medicina Ocupacional.
 - 🌱 Curso Análise e Desenvolvimento de Sistemas.
 - ❤ Sou fanático em aprender.
 - 🕘 No tempo livre eu estudo mais, assisto futebol ou corrida e jogo com os amigos. 📚⚽🏎🎮
